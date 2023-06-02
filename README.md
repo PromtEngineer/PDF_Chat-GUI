@@ -4,7 +4,13 @@ This Repo implements chat with your PDF via a GUI. This Code utilized OpenAI's L
 
 ![ChatApp UI](https://github.com/PromtEngineer/PDF_Chat-GUI/assets/134474669/bba57a81-909f-4fe3-91cd-96ae14c17438)
 
-# Environment Setup
+## Clone the Repo:
+Clone the repository. 
+```shell
+git clone https://github.com/PromtEngineer/PDF_Chat-GUI.git
+```
+
+## Environment Setup
 In order to set your environment up to run the code here, first install all requirements:
 
 ```shell
