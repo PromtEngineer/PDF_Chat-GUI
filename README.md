@@ -1,4 +1,4 @@
-# PDF_Chat-GUI
+# Chat with PDF 
 This Repo implements chat with your PDF via a GUI. This Code utilized OpenAI's LLM and Embedding models for information retreival from your documents. 
 
 
